@@ -1,4 +1,4 @@
-# Curso em Video Python
+<h1 align="center">Curso em Video Python</h1>
  <p>Neste repositório você irá encontrar todas as anotações e exercícios resolvidos e realizados no curso do Curso em vídeo</p>
  <ul>
   <li><a href="https://www.youtube.com/CursoemV%C3%ADdeo" target="blank">Curso em Vídeo</a></li>
